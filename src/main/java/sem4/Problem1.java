@@ -5,13 +5,11 @@ import sem4.Exceptions.CustomerException;
 import sem4.Exceptions.ProductException;
 
 import java.util.ArrayList;
-import java.util.Objects;
 
 public class Problem1 {
     static ArrayList<Customer> customers = new ArrayList<>();
     static ArrayList<Item> items = new ArrayList<>();
     static ArrayList<Order> orders = new ArrayList<>();
-    static ArrayList<Order> draft = new ArrayList<>();
 
 
     public static void main(String[] args) throws Exception {
