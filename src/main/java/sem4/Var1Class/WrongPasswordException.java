@@ -1,4 +1,4 @@
-package sem4;
+package sem4.Var1Class;
 
 public class WrongPasswordException extends Exception{
     public WrongPasswordException(String message) {

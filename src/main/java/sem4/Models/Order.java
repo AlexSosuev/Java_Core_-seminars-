@@ -1,4 +1,4 @@
-package sem4;
+package sem4.Models;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -9,6 +9,6 @@ import lombok.Setter;
 @Setter
 public class Order {
     private Customer customer;
-    private Item item;
+    private Product product;
     private int quantity;
 }

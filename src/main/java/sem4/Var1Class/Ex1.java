@@ -1,4 +1,4 @@
-package sem4;
+package sem4.Var1Class;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

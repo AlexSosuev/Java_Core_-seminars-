@@ -1,4 +1,8 @@
-package sem4;
+package sem4.Var1Class;
+
+import sem4.Var1Class.Ex1;
+import sem4.Var1Class.WrongLoginException;
+import sem4.Var1Class.WrongPasswordException;
 
 public class Main {
     public static void main(String[] args) throws Throwable {
